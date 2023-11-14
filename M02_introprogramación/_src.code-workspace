@@ -1,0 +1,40 @@
+{
+	"folders": [
+		{
+			"path": "../_src"
+		},
+		{
+			"path": "../M01_herramientaseinstalacion"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../M03_variablesydatos"
+		},
+		{
+			"path": "../M04_flujosdecontrol"
+		},
+		{
+			"path": "../M05_estructuradedatos"
+		},
+		{
+			"path": "../M06_iterablesiteradores"
+		},
+		{
+			"path": "../M07_funciones"
+		},
+		{
+			"path": "../M08_clasesyOOP"
+		},
+		{
+			"path": "../M09_errorhandling"
+		},
+		{
+			"path": "../M10_manejodearchivos"
+		},
+		{
+			"path": "../Simulación Challenge"
+		}
+	]
+}
